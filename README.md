@@ -5,7 +5,9 @@ Precise estimation of residue relative solvent accessible area from Cα atom dis
 ## Software you need to install 
 1. You need to install torch. 
 conda install torch
-2. install Biopython,
+2. Biopython
+3. numpy
+4. pandas
 
 ## Usage
 1. run sh
