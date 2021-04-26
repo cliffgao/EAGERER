@@ -2,4 +2,4 @@
 
 ###conda activate torch 
 ###  2021-04-01
-./bin/EAGERER.py  eg.list 
+python ./bin/EAGERER.py  eg.list 
