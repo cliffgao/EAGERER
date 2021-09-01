@@ -1,7 +1,7 @@
 # EAGERER
 Precise estimation of residue relative solvent accessible area from Cα atom distance matrix using deep learning method 
 
-
+![EAGERER](./models/fig1-revised.tif)
 ## Software you need to install 
 1. You need to install torch. 
 https://pytorch.org/get-started/locally/
