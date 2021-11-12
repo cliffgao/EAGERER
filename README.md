@@ -3,15 +3,8 @@ Precise estimation of residue relative solvent accessible area from Cα atom dis
 
 ![EAGERER](./models/eagerer.png)
 ## Software you need to install 
-1. You need to install torch. 
-https://pytorch.org/get-started/locally/
 
-2. Biopython
-conda install -c anaconda biopython
-
-3. numpy  & pandas
-conda install numpy
-conda install pandas
+pip install -r requirements.txt
 
 ## Usage
 You can run EAGERER in following ways:
